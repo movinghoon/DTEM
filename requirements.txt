@@ -1,0 +1,5 @@
+torch==2.0.1
+timm==0.9.7
+tqdm
+wandb
+einops
