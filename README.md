@@ -3,6 +3,7 @@ This repository contains official code for \
 [Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers](https://openreview.net/forum?id=pVPyCgXv57) \
 Dong Hoon Lee and Seunghoon Hong
 NeurIPS 2024
+![scheme](./dtem.png)
 
 ## Requirements
 - `torch==2.0.1`
